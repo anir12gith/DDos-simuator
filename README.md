@@ -13,9 +13,7 @@ This is a simple Python-based DDoS simulation script created for learning and te
 - Colored interface using `termcolor` and `pyfiglet`
 - Simple logic flow using `if`, `while`, and counters
 
-## Screenshot
 
-![screenshot](screenshot.png) *(You can upload one of the photos you sent earlier here)*
 
 ## Disclaimer
 
